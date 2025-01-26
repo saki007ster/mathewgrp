@@ -12,7 +12,7 @@ const Hero = () => {
             <div className="w-full px-4">
               <div className="mx-auto max-w-[800px] text-center">
                 <h1 className="mb-5 text-5xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                Welcome to <span className="text-primary">Mathew</span><span className="text-black">Hospitality</span> <span className="text-secondary">Group</span>
+                  Welcome to <br /><span className="text-primary">Mathew Hospitality Group</span>
                 </h1>
                 <p className="mb-12 text-base font-bold text-black sm:text-lg md:text-xl">
                   Where exceptional dining meets a legacy of excellence!
